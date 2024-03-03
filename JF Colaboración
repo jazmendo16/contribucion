@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+class JFAT{
+   // iniciales = nombre, apellido, direccion
+   protected :	string nom, string ape, string dir;
+
+      Iniciales (){
+
+   }
+
+   Iniciales (string nom,string ape, string dir){
+         Nombre = nom;
+         Apellido = ape;
+         Direccion = dir
+   }
+   // crud = crear,leer,actualizar,borrar
+   void crear ();
+   void leer ();
+   void actualizar ();
+   void borrar ();
+
+};
