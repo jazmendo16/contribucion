@@ -1,11 +1,10 @@
 #include <iostream>
 using namespace std;
-class AACCP{
-	// agregar comentario
+class JJSM{
 	private : string nombres,apellidos,direccion;
 	
 	void crear();
-	void leer();
+	void leet();
 	void actualizar();
 	void borrar();
 };
