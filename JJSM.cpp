@@ -4,7 +4,7 @@ class JJSM{
 	private : string nombres,apellidos,direccion;
 	
 	void crear();
-	void leet();
+	void leer();
 	void actualizar();
 	void borrar();
 };
