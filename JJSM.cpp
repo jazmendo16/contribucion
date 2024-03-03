@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-class AACCP{
-	// agregar comentario
+class JJSM{
 	private : string nombres,apellidos,direccion;
 	
 	void crear();
