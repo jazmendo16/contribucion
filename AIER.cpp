@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class AACCP{
+class AIER{
 	// agregar comentario
 	private : string nombres,apellidos,direccion;
 	
