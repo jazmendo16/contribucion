@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-class AIER{
-	// agregar comentario
+class BRGQ{
 	private : string nombres,apellidos,direccion;
 	
 	void crear();
